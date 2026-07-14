@@ -24,13 +24,15 @@ public class Swap {
         changeName(name);
         System.out.println(name);
 
+         */
+
     }
     static void changeName(String naam){
         naam = "Aditi Patil";
         //System.out.println(naam);
-    }*/ 
+    }
 
-    
-    
+
+
 
 }
